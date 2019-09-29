@@ -9,3 +9,4 @@ JavaScript设计模式的相关学习
 
 ### 结构型
 - [适配器模式](https://github.com/Reaper622/JavaScript-DesignPatterns/blob/master/Adapter/Adapter.md)
+- [代理模式](https://github.com/Reaper622/JavaScript-DesignPatterns/blob/master/Proxy/Proxy.md)
