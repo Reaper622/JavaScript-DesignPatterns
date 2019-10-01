@@ -13,3 +13,4 @@ JavaScript设计模式的相关学习
 
 ### 行为型
 - [策略模式](https://github.com/Reaper622/JavaScript-DesignPatterns/blob/master/Strategy/Strategy.md)
+- [迭代器模式](https://github.com/Reaper622/JavaScript-DesignPatterns/blob/master/Iterator/Itrerator.md)
