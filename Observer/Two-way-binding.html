@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>用观察者模式实现双向绑定</title>
+</head>
+<body>
+  <div id="app">
+    <h3>数据的双向绑定</h3>
+    <div class="cell">
+        <div class="text" v-text="myText"></div>
+        <input class="input" type="text" v-model="myText" >
+      </div>
+    </div>
+    <script src="./Two-way-binding.js"></script>
+    <!-- <script src="./test.js"></script> -->
+</body>
+</html>
