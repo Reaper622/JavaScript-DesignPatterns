@@ -15,6 +15,7 @@ JavaScript设计模式的相关学习
 - [策略模式](https://github.com/Reaper622/JavaScript-DesignPatterns/blob/master/Strategy/Strategy.md)
 - [迭代器模式](https://github.com/Reaper622/JavaScript-DesignPatterns/blob/master/Iterator/Itrerator.md)
 - [观察者模式](https://github.com/Reaper622/JavaScript-DesignPatterns/blob/master/Observer/Observer.md)
+- [命令模式](https://github.com/Reaper622/JavaScript-DesignPatterns/blob/master/Command/Command.md)
 
 
 
