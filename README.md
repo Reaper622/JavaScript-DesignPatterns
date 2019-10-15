@@ -11,6 +11,7 @@ JavaScript设计模式的相关学习
 - [适配器模式](https://github.com/Reaper622/JavaScript-DesignPatterns/blob/master/Adapter/Adapter.md)
 - [代理模式](https://github.com/Reaper622/JavaScript-DesignPatterns/blob/master/Proxy/Proxy.md)
 - [装饰者模式](https://github.com/Reaper622/JavaScript-DesignPatterns/blob/master/Decorator/Decorator.md)
+- [外观模式](https://github.com/Reaper622/JavaScript-DesignPatterns/blob/master/Appearance/Appearance.md)
 
 ### 行为型
 - [策略模式](https://github.com/Reaper622/JavaScript-DesignPatterns/blob/master/Strategy/Strategy.md)
