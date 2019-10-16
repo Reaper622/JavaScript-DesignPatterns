@@ -19,6 +19,7 @@ JavaScript设计模式的相关学习
 - [观察者模式](https://github.com/Reaper622/JavaScript-DesignPatterns/blob/master/Observer/Observer.md)
 - [命令模式](https://github.com/Reaper622/JavaScript-DesignPatterns/blob/master/Command/Command.md)
 - [状态模式](https://github.com/Reaper622/JavaScript-DesignPatterns/blob/master/State/State.md)
+- [中介者模式](https://github.com/Reaper622/JavaScript-DesignPatterns/blob/master/Mediation/Mediation.md)
 
 
 
