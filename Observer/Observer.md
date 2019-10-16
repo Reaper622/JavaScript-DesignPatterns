@@ -109,7 +109,7 @@ press2.deliver('本报社已倒闭');
 
 首先我们需要有一个页面结构
 
-```
+```javascript
 <div id="app">
     <h3>数据的双向绑定</h3>
     <div class="cell">
@@ -121,7 +121,7 @@ press2.deliver('本报社已倒闭');
 
 接着我们创建一个类`aVue`
 
-```
+```javascript
 class aVue {
   constructor (options) {
     // 传入的配置参数
@@ -222,7 +222,7 @@ class aVue {
 
 接着我们定义订阅者类
 
-```
+```javascript
 class Watcher{
   /*
   * name 指令名称

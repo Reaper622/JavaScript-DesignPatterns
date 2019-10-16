@@ -6,7 +6,7 @@
 
 举一个抽象的例子，例如当我们有两台电脑需要充电：
 
-```
+```javascript
 class ThinkPad {
   charge() {
     console.log('ThinkPad 开始充电');
@@ -32,7 +32,7 @@ PowerToCharge(new MacBook()) // MacBook开始充电
 
 但是如果MacBook不能直接用一种电源接口充电，可能我们就需要一种转接器，这里也就使用的适配器模式，我们不能直接更改电脑上的接口，但我们可以通过一层转接（封装），来实现充电
 
-```
+```javascript
 class ThinkPad {
   charge() {
     console.log('ThinkPad 开始充电');
