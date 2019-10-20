@@ -21,7 +21,7 @@
     <div>
         <button id="btn1">Button1</button>
         <button id="btn2">Button2</button>
-        <button id="btn3">Button3/button>
+        <button id="btn3">Button3</button>
     </div>
     <script src="./Command.js"></script>
 </body>
@@ -101,7 +101,7 @@ class DeleteMenu {
 
 ```
 
-之后我们分别实例华不同的对象
+之后我们分别实例化不同的对象
 
 ```javascript
 // 首先获取按钮对象
