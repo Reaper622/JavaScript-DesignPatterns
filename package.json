@@ -1,0 +1,24 @@
+{
+  "name": "javascript-designpatterns",
+  "version": "1.0.0",
+  "description": "JavaScript设计模式的相关学习",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Reaper622/JavaScript-DesignPatterns.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Reaper622/JavaScript-DesignPatterns/issues"
+  },
+  "homepage": "https://github.com/Reaper622/JavaScript-DesignPatterns#readme",
+  "devDependencies": {
+    "vuepress": "^1.2.0"
+  }
+}

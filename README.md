@@ -1,6 +1,8 @@
 # JavaScript-DesignPatterns
 JavaScript设计模式的相关学习
 
+在线阅读地址: [JavaScript-DesignPatterns](https://reaperlee.cn/dp/)
+
 ## 目录
 ### 创建型
 - [工厂模式](https://github.com/Reaper622/JavaScript-DesignPatterns/blob/master/Factory/Factory.md)
