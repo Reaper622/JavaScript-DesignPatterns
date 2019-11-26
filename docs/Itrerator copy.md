@@ -4,7 +4,7 @@
 
 其实我们无形中已经使用了不少迭代器模式的功能，例如 JS 中数组的 `map`, 与 `forEach`已经内置了迭代器。
 
-```
+```javascript
 [1,2,3].forEach(function(item, index, arr) {
     console.log(item, index, arr);
 });

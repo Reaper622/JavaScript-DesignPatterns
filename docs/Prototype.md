@@ -48,7 +48,7 @@ console.log(obj.__proto__ === proto); // true
 
 #### 2.方法继承
 
-```
+```javascript
 // 方法继承
 let  proto = function() {}
 proto.prototype.excute = function() {}
@@ -60,14 +60,14 @@ child.prototype = new proto()
 
 #### 3.函数对Object的默认继承
 
-```
+```javascript
 let Foo = function() {}
 console.log(Foo.prototype.__proto__ === Object.prototype); // true
 ```
 
 #### 4.isPrototypeOf
 
-```
+```javascript
 prototypeObj.isPrototypeOf(obj)
 ```
 
@@ -77,7 +77,7 @@ prototypeObj.isPrototypeOf(obj)
 
 contructor.prototype是否出现在obj的原型链上
 
-```
+```javascript
 obj instanceof contructor
 ```
 
@@ -85,7 +85,7 @@ obj instanceof contructor
 
 Object.getPrototypeOf(obj) 方法返回指定对象obj的原型（内部[[Prototype]]属性的值）
 
-```
+```javascript
 Object.getPrototypeOf(obj)
 ```
 
@@ -93,7 +93,7 @@ Object.getPrototypeOf(obj)
 
 设置一个指定的对象的原型 ( 即, 内部[[Prototype]]属性）到另一个对象或 null
 
-```
+```javascript
 var obj = {}
 var prototypeObj = {}
 Object.setPrototypeOf(obj, prototypeObj)

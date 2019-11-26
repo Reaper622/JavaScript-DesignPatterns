@@ -10,7 +10,7 @@
 
  通过一个工厂创建一种对象类的实力。主要用来创建同一类的对象。
 
-```
+```javascript
 // 简单工厂模式
 // Pet 类
 class Pet {
@@ -49,7 +49,7 @@ console.log(Abird.sound); // chirping
 
 工厂方法模式让我们将创建实例的过程推迟到了*子类*中,这样我们的核心类就变成的抽象类，并且将构造函数和创建者分离，对 new 操作进行了封装。
 
-```
+```javascript
 // 工厂方法模式
 class Pet {
   constructor(species = '', sound = '') {
